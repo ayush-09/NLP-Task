@@ -5,7 +5,7 @@
 </p>
 According to the text it totally based on the mood of each segment.<br>
 I assign a particular value to all unique mood.<br>
-<U>If the value less than 3 then the sentiment is negative else positive. </U>
+<U>If the value more than 3 then the sentiment is positive else negative. </U>
 
 <br>
 <br>
